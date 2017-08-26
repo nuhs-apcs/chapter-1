@@ -31,7 +31,7 @@ Here are a few steps to help you get started with these labs in Eclipse.
 3. Comments
 4. Problems
 
-##Hello World
+## Hello World
 
 1. Create a new Java class using the `File > New > Class` menu item.
 
